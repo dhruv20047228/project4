@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-
-function App() {
+import CodePalette from './Components/CodePalette/CodePalette';
+import Navbar from './Components/Navbar/Navbar';
+const App = () => {
   return (
-    <div className="App">
+    <div>
       
+      <CodePalette />
     </div>
   );
 }

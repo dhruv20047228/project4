@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Navbar() {
     return (
-        <nav className="navbar">
+        <nav className="container">
             <div className="navbar-left">
                 <a href="/default.png" className="logo"></a>
             </div>

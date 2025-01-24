@@ -13,7 +13,7 @@ export default function Login() {
             </span>
 
 
-            <p>Don't have an account? <a href="SignUp">SignUp</a></p>
+            <p>Don't have an account? <a href="SignUp.js">SignUp</a></p>
 
         </div>
     )

@@ -8,10 +8,11 @@ import ContactUs from './Components/ContactUs/ContactUs';
 const App = () => {
   return (
     <div>
-      <Navbar />
+      <CodePalette />
+      {/*<Navbar />
       <CodePalette />
       <Login />
-      <ContactUs />
+      <ContactUs />*/}
     </div>
   );
 }

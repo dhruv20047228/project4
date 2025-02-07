@@ -8,7 +8,7 @@ import ContactUs from './Components/ContactUs/ContactUs';
 const App = () => {
   return (
     <div>
-      <CodePalette />
+      {/* <CodePalette />*/}
       {/*<Navbar />
       <CodePalette />
       <Login />
